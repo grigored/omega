@@ -1,0 +1,6 @@
+yt-dlp==2024.4.9
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+imagebind @ git+https://github.com/omegalabsinc/ImageBind.git@e2bfdec716b1c1d511d6bea806227b2b3dfcadee#egg=imagebind
+pydantic==2.7.4
